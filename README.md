@@ -82,7 +82,7 @@ https://en.wikipedia.org/wiki/GIF
 ###### Portable Network Graphics (PNG)
 https://en.wikipedia.org/wiki/Portable_Network_Graphics
 
-##### HTML
+###### HTML
 https://en.wikipedia.org/wiki/HTML
 
 ###### Hypertext
