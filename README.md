@@ -64,7 +64,7 @@ https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard
 ###### Dock (OS X)
 https://en.wikipedia.org/wiki/Dock_(OS_X)
 
-##### Menu (computing)
+###### Menu (computing)
 https://en.wikipedia.org/wiki/Menu_(computing)
 
 ###### TextEdit
